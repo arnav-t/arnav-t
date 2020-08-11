@@ -1,4 +1,4 @@
-![Arnav's github stats](https://github-readme-stats.vercel.app/api?username=arnav-t&hide=contribs&theme=radical&count_private=true&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnav-t&layout=compact&theme=radical&hide=jupyter%20notebook&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Arnav's github stats](https://github-readme-stats.vercel.app/api?username=arnav-t&hide=contribs&theme=radical&count_private=true&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnav-t&layout=compact&theme=radical&hide=jupyter%20notebook&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--

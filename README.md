@@ -1,7 +1,8 @@
-- 🌱 I’m currently learning Kubernetes and DevOps
+- 🌱 I’m currently learning Kubernetes
+- 👯 I’m looking to collaborate on fun DevOps projects
 - 💬 Ask me about anything!
-- 📫 How to reach me: avznav@gmail.com
-- ⚡ Fun fact: The previous version of this README.md broke, hence this :sweat_smile:
+- 📫 How to reach me: :e-mail: avznav@gmail.com
+- ⚡ Fun fact: The previous version of this README broke, hence this version :sweat_smile:
 
 
 <!--

@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning Kubernetes
+- 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on fun DevOps projects
 - 💬 Ask me anything!
 - 📫 How to reach me: :e-mail: avznav@gmail.com

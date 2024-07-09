@@ -1,7 +1,4 @@
-- 🌱 I’m currently working with GCP
-- 👯 I’m looking to collaborate on fun DevOps projects
 - 💬 Ask me anything!
-- 📫 How to reach me: :e-mail: avznav@gmail.com
 - ⚡ Fun fact: The previous version of this README broke, hence this version :sweat_smile:
 - :grapes: My blog: [arnav-t.github.io](https://arnav-t.github.io/)
 - :blue_square: My LinkedIn: [arnav-t](https://www.linkedin.com/in/arnav-t/)
